@@ -41,6 +41,20 @@
 1. [ ] [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 1. [ ] [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
 
+### Front-End Web Developer Nanodegree
+1. [ ] [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+1. [ ] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+1. [ ] [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+1. [ ] [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
+1. [ ] [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+1. [ ] [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+1. [ ] [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
+1. [ ] [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
+1. [ ] [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+1. [ ] [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+1. [ ] [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+1. [ ] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+
 ### Full Stack Web Developer Nanodegree
 1. [ ] [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 1. [ ] [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
