@@ -15,7 +15,7 @@
 1. [x] [Swift for Developers](https://www.udacity.com/course/swift-for-developers--ud1025)
 1. [x] [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
 1. [x] [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
-1. [ ] [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353)
+1. [x] [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353)
 1. [ ] [Mobile Design Patterns for iOS](https://www.udacity.com/course/ios-design-patterns--ud1029)
 1. [ ] [Building iOS Interfaces](https://www.udacity.com/course/building-ios-interfaces--ud1027)
 1. [ ] [Data Structures & Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
