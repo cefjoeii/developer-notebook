@@ -1,6 +1,7 @@
 # Udacity
 
 ### iOS Developer Nanodegree
+
 1. [x] [Learn Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902)
 1. [x] [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 1. [x] [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788)
@@ -9,6 +10,7 @@
 1. [x] [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325)
 
 ### iOS Extra
+
 1. [x] [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607)
 1. [x] [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009)
 1. [x] [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
@@ -23,6 +25,7 @@
 1. [ ] [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031)
 
 ### Android Basics Nanodegree
+
 1. [x] [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 1. [x] [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 1. [ ] [Android Basics: Multi-Screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
@@ -30,6 +33,7 @@
 1. [ ] [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 
 ### Android Developer Nanodegree
+
 1. [ ] [Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853ar)
 1. [ ] [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 1. [ ] [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
@@ -37,11 +41,13 @@
 1. [ ] [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
 
 ### Android Extra
+
 1. [ ] [Android TV and Google Cast Development](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)
 1. [ ] [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 1. [ ] [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
 
 ### Front-End Web Developer Nanodegree
+
 1. [ ] [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 1. [ ] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 1. [ ] [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
@@ -56,24 +62,37 @@
 1. [ ] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 
 ### Full Stack Web Developer Nanodegree
+
+#### Part 1: Developer Tools
+1. [ ] [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+1. [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+1. [ ] [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+1. [ ] [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+1. [ ] [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+1. [ ] [Networking For Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
+#### Part 2: Databases with SQL & Python
+1. [ ] [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+
+#### Part 3: Servers, Authorization, and CRUD
+1. [ ] [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+1. [ ] [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+1. [ ] [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+
+#### Part 4: Deploying to Linux Servers
+1. [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+
+#### Part 5: Extra
+1. [ ] [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+1. [ ] [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [ ] [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 1. [ ] [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 1. [ ] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 1. [ ] [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 1. [ ] [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
-1. [ ] [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-1. [ ] [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
-1. [ ] [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-1. [ ] [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
-1. [ ] [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [ ] [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
 1. [ ] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
-1. [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-1. [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-1. [ ] [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-1. [ ] [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
-1. [ ] [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
-1. [ ] [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+
 
 ### Senior Web Developer Nanodegree
 1. [ ] [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
@@ -108,8 +127,6 @@
 1. [ ] [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
 1. [ ] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 1. [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
-1. [ ] [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
-1. [ ] [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
 1. [ ] [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 
 ### Predictive Analytics for Business Nanodegree
