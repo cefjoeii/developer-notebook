@@ -1,6 +1,7 @@
 # Investopedia
 
 ### Stocks Basics: How Stocks Trade
+
 1. [x] [Stocks Basics: Introduction](https://www.investopedia.com/university/stocks/)
 1. [x] [Stocks Basics: What Are Stocks?](https://www.investopedia.com/university/stocks/stocks1.asp)
 1. [x] [Stocks Basics: Different Types Of Stocks](https://www.investopedia.com/university/stocks/stocks2.asp)
@@ -12,6 +13,7 @@
 1. [x] [Stocks Basics: Conclusion](https://www.investopedia.com/university/stocks/stocks8.asp)
 
 ### Investing 101: A Tutorial For Beginner Investors
+
 1. [ ] [Investing 101: Introduction](https://www.investopedia.com/university/beginner/)
 1. [ ] [Investing 101: What Is Investing?](https://www.investopedia.com/university/beginner/beginner1.asp)
 1. [ ] [Investing 101: The Concept Of Compounding](https://www.investopedia.com/university/beginner/beginner2.asp)
@@ -22,6 +24,7 @@
 1. [ ] [Investing 101: Conclusion](https://www.investopedia.com/university/beginner/beginner7.asp)
 
 ### Economics Basics
+
 1. [ ] [Economics Basics: Introduction](https://www.investopedia.com/university/economics/)
 1. [ ] [Economics Basics: What Is Economics?](https://www.investopedia.com/university/economics/economics1.asp)
 1. [ ] [https://www.investopedia.com/university/economics/economics3.asp](https://www.investopedia.com/university/economics/economics3.asp)
@@ -34,5 +37,6 @@
 1. [ ] [Economics Basics: Conclusion](https://www.investopedia.com/university/economics/economics7.asp)
 
 ### Options Basics Tutorial
+
 1. [ ] [Options Basics Tutorial](https://www.investopedia.com/options-basics-tutorial-4583012)
 
