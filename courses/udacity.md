@@ -128,6 +128,7 @@
 
 ## Data Analyst Nanodegree
 
+1. [ ] [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 1. [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 1. [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 1. [ ] [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
