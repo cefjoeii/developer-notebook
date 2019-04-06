@@ -1,5 +1,16 @@
 # Investopedia
 
+## Investing 101: A Tutorial For Beginner Investors
+
+1. [x] [Investing 101: Introduction](https://www.investopedia.com/university/beginner/)
+1. [x] [Investing 101: What Is Investing?](https://www.investopedia.com/university/beginner/beginner1.asp)
+1. [ ] [Investing 101: The Concept Of Compounding](https://www.investopedia.com/university/beginner/beginner2.asp)
+1. [ ] [Investing 101: Knowing Yourself](https://www.investopedia.com/university/beginner/beginner3.asp)
+1. [ ] [Investing 101: How Technology Has Changed Investing](https://www.investopedia.com/university/beginner/how-technology-has-changed-investing.asp)
+1. [ ] [Investing 101: Types Of Investments](https://www.investopedia.com/university/beginner/beginner5.asp)
+1. [ ] [Investing 101: Portfolios And Diversification](https://www.investopedia.com/university/beginner/beginner6.asp)
+1. [ ] [Investing 101: Conclusion](https://www.investopedia.com/university/beginner/beginner7.asp)
+
 ## Stocks Basics: How Stocks Trade
 
 1. [x] [Stocks Basics: Introduction](https://www.investopedia.com/university/stocks/)
@@ -11,17 +22,6 @@
 1. [x] [Stocks Basics: How to Read A Stock Table/Quote](https://www.investopedia.com/university/stocks/stocks6.asp)
 1. [x] [Stocks Basics: Valuing Stocks](https://www.investopedia.com/university/stocks/stocks7.asp)
 1. [x] [Stocks Basics: Conclusion](https://www.investopedia.com/university/stocks/stocks8.asp)
-
-## Investing 101: A Tutorial For Beginner Investors
-
-1. [ ] [Investing 101: Introduction](https://www.investopedia.com/university/beginner/)
-1. [ ] [Investing 101: What Is Investing?](https://www.investopedia.com/university/beginner/beginner1.asp)
-1. [ ] [Investing 101: The Concept Of Compounding](https://www.investopedia.com/university/beginner/beginner2.asp)
-1. [ ] [Investing 101: Knowing Yourself](https://www.investopedia.com/university/beginner/beginner3.asp)
-1. [ ] [Investing 101: How Technology Has Changed Investing](https://www.investopedia.com/university/beginner/how-technology-has-changed-investing.asp)
-1. [ ] [Investing 101: Types Of Investments](https://www.investopedia.com/university/beginner/beginner5.asp)
-1. [ ] [Investing 101: Portfolios And Diversification](https://www.investopedia.com/university/beginner/beginner6.asp)
-1. [ ] [Investing 101: Conclusion](https://www.investopedia.com/university/beginner/beginner7.asp)
 
 ## Economics Basics
 
