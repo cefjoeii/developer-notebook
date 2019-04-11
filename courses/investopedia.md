@@ -39,3 +39,12 @@
 ## Options Basics Tutorial
 
 1. [ ] [Options Basics Tutorial](https://www.investopedia.com/options-basics-tutorial-4583012)
+
+## Understanding The P/E Ratio
+
+1. [ ] [P/E Ratio: An In-Depth Guide](https://www.investopedia.com/university/peratio/)
+1. [ ] [P/E Ratio: What Is It?](https://www.investopedia.com/university/peratio/peratio1.asp)
+1. [ ] [P/E Ratio: Using The P/E Ratio](https://www.investopedia.com/university/peratio/peratio2.asp)
+1. [ ] [P/E Ratio: Problems With The P/E](https://www.investopedia.com/university/peratio/peratio3.asp)
+1. [ ] [P/E Ratio: It's Not A Crystal Ball](https://www.investopedia.com/university/peratio/peratio4.asp)
+1. [ ] [P/E Ratio: Conclusion](https://www.investopedia.com/university/peratio/peratio5.asp)
