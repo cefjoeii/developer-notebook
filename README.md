@@ -4,12 +4,10 @@ A place to keep track of the learning progress and remind self about different c
 
 ![Language: American English](https://img.shields.io/badge/language-american%20english-red.svg)
 
-## <a href="./0.0%20Motivation/README.md">0.0 Motivation</a>
+## Table of Contents
 
-## <a href="./1.0%20Computer%20Science/README.md">1.0 Computer Science</a>
-
-## <a href="./2.0%20Software%20Development/README.md">2.0 Software Development</a>
-
-## <a href="./3.0%20Software%20Engineering/README.md">3.0 Software Engineering</a>
-
-## <a href="./4.0%20Information%20Technology/README.md">4.0 Information Technology</a>
+- [0.0 Motivation](./0.0%20Motivation/README.md)
+- [1.0 Computer Science](./1.0%20Computer%20Science/README.md)
+- [2.0 Software Development](./2.0%20Software%20Development/README.md)
+- [3.0 Software Engineering](./3.0%20Software%20Engineering/README.md)
+- [4.0 Information Technology](./4.0%20Information%20Technology/README.md)
