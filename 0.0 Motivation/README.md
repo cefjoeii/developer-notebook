@@ -30,6 +30,7 @@
 
 ### 0.2.3 Books
 
+- [x] [97 Things Every Programmer Should Know - Shirish Padalkar](https://www.goodreads.com/book/show/16171720-97-things-every-programmer-should-know---extended) ★★☆☆☆
 - [ ] [The Complete Software Developer's Career Guide - John Z. Sonmez](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
 - [ ] [Soft Skills - John Z. Sonmez](https://www.goodreads.com/book/show/23232941-soft-skills)
 - [ ] [The Healthy Programmer - Joe Kutner](https://www.goodreads.com/book/show/17229509-the-healthy-programmer)

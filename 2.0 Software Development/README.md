@@ -114,22 +114,22 @@
 
 #### iOS Developer Nanodegree
 
-1. [x] [Learn Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902)
-1. [x] [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
-1. [x] [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788)
-1. [x] [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
-1. [x] [Grand Central Dispatch (GCD)](https://www.udacity.com/course/grand-central-dispatch-gcd--ud576)
-1. [x] [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325)
+1. [x] [Learn Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902) ★★★★☆
+1. [x] [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) ★★★★★
+1. [x] [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788) ★★★★★
+1. [x] [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421) ★★★☆☆
+1. [x] [Grand Central Dispatch (GCD)](https://www.udacity.com/course/grand-central-dispatch-gcd--ud576) ★★★☆☆
+1. [x] [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325) ★★★☆☆
 
 #### iOS Extra
 
-1. [x] [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607)
-1. [x] [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009)
-1. [x] [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
-1. [x] [Swift for Developers](https://www.udacity.com/course/swift-for-developers--ud1025)
-1. [x] [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
-1. [x] [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
-1. [x] [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353)
+1. [x] [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607) ★★★☆☆
+1. [x] [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009) ★★★★★
+1. [x] [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022) ★★★☆☆
+1. [x] [Swift for Developers](https://www.udacity.com/course/swift-for-developers--ud1025) ★★★★☆
+1. [x] [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026) ★★★★☆
+1. [x] [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351) ★★★★☆
+1. [x] [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353) ★★★★☆
 1. [ ] [Mobile Design Patterns for iOS](https://www.udacity.com/course/ios-design-patterns--ud1029)
 1. [ ] [Building iOS Interfaces](https://www.udacity.com/course/building-ios-interfaces--ud1027)
 1. [ ] [Data Structures & Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
@@ -138,8 +138,8 @@
 
 #### Android Basics Nanodegree
 
-1. [x] [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
-1. [x] [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+1. [x] [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834) ★★★☆☆
+1. [x] [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836) ★★★☆☆
 1. [ ] [Android Basics: Multi-Screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 1. [ ] [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 1. [ ] [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
@@ -220,7 +220,7 @@
 <details>
   <summary><strong>Database</strong></summary>
 
-1. [x] [Database Design](https://www.udemy.com/database-design/)
+1. [x] [Database Design](https://www.udemy.com/database-design/) ★★★★☆
 1. [ ] [Database Design and MySQL](https://www.udemy.com/calebthevideomaker2-database-and-mysql-classes)
 
 </details>
