@@ -221,8 +221,18 @@
   <summary><strong>Database</strong></summary>
 
 1. [x] [Database Design](https://www.udemy.com/database-design/) ★★★★☆
-1. [ ] [Database Design and MySQL](https://www.udemy.com/calebthevideomaker2-database-and-mysql-classes)
+1. [x] [Database Design and MySQL](https://www.udemy.com/calebthevideomaker2-database-and-mysql-classes) ★☆☆☆☆
 
 </details>
 
 
+
+### 2.2.4 YouTube
+
+<details>
+  <summary><strong>Database</strong></summary>
+
+1. [x] [MySQL Database Tutorial](https://www.youtube.com/watch?v=KgiCxe-ZW8o&list=PL32BC9C878BA72085) ★★★★☆
+1. [x] [MySQL](https://www.youtube.com/watch?v=UGu9unCW4PA&list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH&index=1) ★☆☆☆☆
+
+</details>
