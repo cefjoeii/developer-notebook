@@ -4,7 +4,7 @@
 
 ## Overview
 
-Learning resources are scattered all over the internet. This was created to compile them in a much organized fashion so the chances of getting lost is reduced.
+Learning resources are scattered all over the internet. This was created to compile them in a much organized fashion so the chances of getting lost are reduced.
 
 ## Content
 
