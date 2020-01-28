@@ -13,8 +13,8 @@ Learning resources are scattered all over the internet. This was created to comp
 - [2.0 Software Development](./2.0_Software_Development.md)
 - [3.0 Software Engineering](./3.0_Software_Engineering.md)
 - [4.0 Information Technology](./4.0_Information_Technology.md)
-- 5.0 Marketing
-- 6.0 Graphics
+- [5.0 Graphics](./5.0_Graphics.md)
+- 6.0 Marketing
 
 ## Show Some :heart: :wave:
 
