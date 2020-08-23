@@ -2,11 +2,11 @@
 
 ![Language: American English](https://img.shields.io/badge/language-american%20english-red.svg)
 
-## Overview
+## 💎 Overview
 
-Learning resources are scattered all over the internet. This was created to compile them in a much organized fashion so the chances of getting lost are reduced.
+Learning resources are scattered all over the internet. This was created as a personal notebook to compile such materials in a much organized fashion so the chances of getting lost are reduced.
 
-## Content
+## 📄 Content
 
 - [0.0 Motivation](./0.0_Motivation.md)
 - [1.0 Computer Science](./1.0_Computer_Science.md)
@@ -14,7 +14,10 @@ Learning resources are scattered all over the internet. This was created to comp
 - [3.0 Software Engineering](./3.0_Software_Engineering.md)
 - [4.0 Information Technology](./4.0_Information_Technology.md)
 - [5.0 Graphics](./5.0_Graphics.md)
-- 6.0 Marketing
+- [6.0 Marketing & Sales](./6.0_Marketing_Sales)
+
+## 🤔 What do stars mean?
+These are the personal ratings after finishing up going through the playlists/books/docs/guidelines.
 
 ## Show Some :heart: :wave:
 
