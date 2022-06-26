@@ -4,7 +4,7 @@
 
 ## 💎 Overview
 
-Learning resources are scattered all over the internet. This was created as a personal notebook to compile such materials in a much organized fashion so the chances of getting lost are reduced.
+Resources are scattered all over the internet. This was created as a personal notebook to compile learning materials in a much organized fashion to avoid getting lost.
 
 ## 📄 Content
 
@@ -16,10 +16,10 @@ Learning resources are scattered all over the internet. This was created as a pe
 - [5.0 Graphics](./5.0_Graphics.md)
 - [6.0 Marketing & Sales](./6.0_Marketing_Sales)
 
-## 🤔 What do stars mean?
+## 🤔 What do stars mean? ★★★☆☆
 These are the personal ratings after finishing up going through the playlists/books/docs/guidelines.
 
-## Show Some :heart: :wave:
+## :heart: Show some support
 
 [![Follow on GitHub](https://img.shields.io/github/followers/cefjoeii.svg?style=social&label=Follow)](https://github.com/cefjoeii)
 [![Follow on Facebook](https://img.shields.io/badge/Follow%20%40cefjoeii%20on-Facebook-%233C5A99.svg)](https://facebook.com/cefjoeii)
