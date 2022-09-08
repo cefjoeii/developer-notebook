@@ -8,13 +8,13 @@ Resources are scattered all over the internet. This was created as a personal no
 
 ## 📄 Content
 
-- [0.0 Motivation](./0.0_Motivation.md)
-- [1.0 Computer Science](./1.0_Computer_Science.md)
-- [2.0 Software Development](./2.0_Software_Development.md)
-- [3.0 Software Engineering](./3.0_Software_Engineering.md)
-- [4.0 Information Technology](./4.0_Information_Technology.md)
-- [5.0 Graphics](./5.0_Graphics.md)
-- [6.0 Marketing & Sales](./6.0_Marketing_Sales)
+- [0.0 Motivation](./0.0-Motivation.md)
+- [1.0 Computer Science](./1.0-ComputerScience.md)
+- [2.0 Software Development](./2.0-SoftwareDevelopment.md)
+- [3.0 Software Engineering](./3.0-SoftwareEngineering.md)
+- [4.0 Information Technology](./4.0-InformationTechnology.md)
+- [5.0 Graphics](./5.0-Graphics.md)
+- [6.0 Marketing & Sales](./6.0-MarketingSales.md)
 
 ## 🤔 What do stars mean? ★★★☆☆
 These are the personal ratings after finishing up going through the playlists/books/docs/guidelines.
