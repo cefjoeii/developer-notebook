@@ -46,6 +46,17 @@
 
 </details>
 
+<details>
+  <summary><strong>Apple Developer Videos</strong></summary>
+
+- [x] [Introduction to SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10119) ★★★☆☆
+- [ ] [App essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10037) ☆☆☆☆☆
+- [ ] [Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10031) ☆☆☆☆☆
+
+
+
+</details>
+
 <hr>
 
 See more from this playlist: https://www.youtube.com/playlist?list=PLPt9u4Iorcdjyl4fI0lgrfXe9-50r_tQM
