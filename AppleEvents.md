@@ -51,7 +51,8 @@
 
 - [x] [Introduction to SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10119) ★★★☆☆
 - [x] [App essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10037) ★★★☆☆
-- [ ] [Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10031) ☆☆☆☆☆
+- [x] [Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10031) ★★★☆☆
+- [x] [What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10041/) ★★★★☆
 
 
 
