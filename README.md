@@ -1,6 +1,8 @@
 # 📘 Developer Notebook
 
-![Language: American English](https://img.shields.io/badge/language-american%20english-red.svg)
+## ‼️ Important
+
+This will no longer be maintained. The decision was to move to [Notion](https://cefjoeii.notion.site/Tutorials-b4d67430a9bb4ff3810b4573a712cb8d). Thank you for the support. 
 
 ## 💎 Overview
 
